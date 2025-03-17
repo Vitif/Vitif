@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cursando Analise e Desenvolvimento de Sistemas
+Análise e Desenvolvimento de Sistemas (ADS)
 
 
 ## 🌐 Socials:
